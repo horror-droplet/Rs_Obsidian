@@ -177,12 +177,13 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "markdown-importer:Markdownインポーターを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "72e28cd67788c44c",
   "lastOpenFiles": [
-    "無題のファイル 1.md",
-    "Git1.md"
+    "Git1.md",
+    "無題のファイル 1.md"
   ]
 }
