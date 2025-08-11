@@ -1,1 +1,18 @@
+# OS固有のファイル
+.DS_Store
+Thumbs.db
+
+# Obsidianの設定ファイル（個人環境に依存するもの）
 .obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+
+# Obsidianのキャッシュ
+.obsidian/cache/
+
+# コミュニティプラグインのリスト（有効/無効の状態）
+# これをignoreすると、デバイスごとに有効にするプラグインを変えられます
+.obsidian/community-plugins.json
